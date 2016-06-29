@@ -1,0 +1,17 @@
+{
+  "name": "media-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "@types/es6-promise": "0.0.22-alpha",
+    "es6-promise": "^3.2.1",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Whitfield",
+  "license": "ISC"
+}
